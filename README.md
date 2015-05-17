@@ -1,5 +1,5 @@
 # Android_Gallery
-Android Gallery which connects a picture to the URL of the picture
+
 This app displays thumbnail pictures in a grid layout.
 
 Each thumbnail in the grid view supports two kinds of functionality.
