@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/view"
+        android:title="@string/view_image"/>
+    
+        <item
+        android:id="@+id/page"
+        android:title="@string/web_page"/>
+
+
+
+
+</menu>
